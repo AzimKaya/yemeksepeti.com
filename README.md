@@ -1,6 +1,6 @@
-# Sahibinden.com URL Testi (Cucumber + Java)
+# www.yemeksepeti.com URL Testi (Cucumber + Java)
 
-Bu proje, sahibinden.com ana sayfasının açılıp açılmadığını Cucumber ve Selenium ile test eder.
+Bu proje, www.yemeksepeti.com ana sayfasının açılıp açılmadığını Cucumber (Salatalık) ve Selenium ile test eder.
 
 ## Kullanım
 
